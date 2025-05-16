@@ -1,4 +1,4 @@
-# ELK-stack-on-AWS-ECS
+# ELK-Stack-on-AWS-ECS
  Deploying Elastic Stack on AWS Elastic Container Service
 
 I will outline the procedure I followed to deploy Elastic Stack on AWS ECS.
